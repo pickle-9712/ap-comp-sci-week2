@@ -12,7 +12,7 @@ public class VarPractice {
 
         int numOne = 6;
         int numTwo = 8;
-        int middleOne = 0; 
+        int middleOne = 0;
 
         middleOne = (numOne+numTwo)/2; 
         System.out.println(middleOne);
